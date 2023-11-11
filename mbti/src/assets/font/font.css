@@ -1,0 +1,12 @@
+@font-face {
+    font-family:'kaishu';
+    src: url('./字小魂薛根元楷书.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family:'maiyuan';
+    src: url('./maiyuanti.otf');
+    font-weight: normal;
+    font-style: normal;
+  }
