@@ -9,7 +9,7 @@
         <div class="contact-info">
           <h2>联系方式</h2>
           <ul>
-            <li>Github项目地址：</li>
+            <li>Github项目地址：https://github.com/luaming/zero-cup.git</li>
             <li>邮箱：luaming@whu.edu.com</li>
             <li>地址：武汉大学计算机学院</li>
           </ul>
